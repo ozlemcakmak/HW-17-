@@ -25,15 +25,7 @@ header{
     text-decoration: none;
     text-align-last: left;
     width: 161px;
-    color: rgba(221,220,197,1);
-    position: absolute;
-    top: 0px;
-    left: 154px;
-    font-family: SF Pro;
-    font-weight: Regular;
-    font-size: 32px;
-    opacity: 1;
-    text-align: left;
+    
 }
 header{
     height: auto;
